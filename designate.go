@@ -1,7 +1,7 @@
 package openstack
 
 import (
-	designate "github.com/libdns/openstack-designate"
+	designate "github.com/binerogroup/openstack-designate"
 
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
